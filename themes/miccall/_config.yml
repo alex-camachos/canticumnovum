@@ -10,13 +10,13 @@ head:
     keywords: miccall
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: CANTICUM NOVUM
+    slogan: "Calidad y elegancia para su ceremonia"
+    HeadButton: CORO CANTICUM NOVUM
 
 Nav:
-    Home_name: 主页
-    is_use_categories : true 
+    Home_name: inicio
+    is_use_categories : false
     categories_name: 分类
     is_use_archives : false
     archives_name: 归档
@@ -34,14 +34,18 @@ Nav:
             use: false
             link:
     pages:
-        简历: 
-            link: "/about/"
-        团队 :
-            link: "/group/"
-        图库 :
-            link: "/gallery/"
-        标签:
-            link: "/tag/"
+        nosotros: 
+            link: "/nosotros/"
+        blog:
+            link: "/blog/"
+        eventos:
+            link: "/eventos/"
+        galería:
+            link: "/galeria/"
+        precios:
+            link: "/precios/"
+        contacto:
+            link: "/contacto/"
         #自定义标签名
         #   link：“路径”
 
