@@ -21,18 +21,15 @@ Nav:
     is_use_archives : false
     archives_name: 归档
     icon:
-        github: 
-            use: true
-            link: https://github.com/miccall
-        Twitter:
-            use: false
-            link: 
         Facebook:
-            use: false
-            link: 
+            use: true
+            link: https://www.facebook.com/canticumPeru/
         Instagram:
-            use: false
-            link:
+            use: true
+            link: https://www.instagram.com/corocanticumnovum/
+        YouTube:
+            use: true
+            link: https://www.youtube.com/user/coralcanticumnovum/
     pages:
         nosotros: 
             link: "/nosotros/"
@@ -46,8 +43,6 @@ Nav:
             link: "/precios/"
         contacto:
             link: "/contacto/"
-        #自定义标签名
-        #   link：“路径”
 
 MainFirst:
     name: Miccall Metro
